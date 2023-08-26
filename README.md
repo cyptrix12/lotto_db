@@ -16,3 +16,6 @@ not me.
 
 so in 2 days i made a script to help with this 10 minute job.
 
+
+tbh this script is a mess idk if it works everytiem use it if you must
+
